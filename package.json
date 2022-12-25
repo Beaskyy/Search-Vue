@@ -9,8 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
-    "search-dropdown-vue": "^1.0.2",
-    "vue": "^3.2.13"
+    "vue": "^3.2.13",
+    "vue-simple-search-dropdown": "^1.0.1",
+    "vue3-select2-component": "^0.1.7"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
